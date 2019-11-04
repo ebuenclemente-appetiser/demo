@@ -1,9 +1,5 @@
 {
-   "success":true,
-   "message":"8 products found",
-   "http_status":200,
-   "data":{
-      "products":{
+   "products":{
          "id":[
             1,
             2,
@@ -35,5 +31,4 @@
             "https://www.youtube.com/watch?v=OKG6AW4VIq8"
          ]
       }
-   }
 }
