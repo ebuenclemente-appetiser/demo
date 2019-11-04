@@ -4,7 +4,7 @@
       "message":"8 products found",
       "http_status":200,
       "data":{
-         "products":{
+         "guidelines":{
             "id":[
                1,
                2,
